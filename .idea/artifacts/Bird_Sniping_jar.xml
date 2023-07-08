@@ -1,0 +1,32 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bird_Sniping:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bird_Sniping_jar</output-path>
+    <root id="archive" name="Bird_Sniping.jar">
+      <element id="module-output" name="Bird_Sniping" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/20/javafx-graphics-20-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/20/javafx-fxml-20-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/20/javafx-base-20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/20/javafx-controls-20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/20/javafx-controls-20-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/20/javafx-base-20-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/20/javafx-graphics-20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/20/javafx-fxml-20.jar" path-in-jar="/" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/javafx-sdk-20.0.1/lib/javafx-swt.jar" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/javafx-sdk-20.0.1/lib/javafx.web.jar" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/javafx-sdk-20.0.1/lib/javafx.base.jar" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/javafx-sdk-20.0.1/lib/javafx.fxml.jar" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/javafx-sdk-20.0.1/lib/javafx.media.jar" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/javafx-sdk-20.0.1/lib/javafx.swing.jar" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/javafx-sdk-20.0.1/lib/javafx.controls.jar" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/javafx-sdk-20.0.1/lib/javafx.graphics.jar" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:20" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:win:20" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:win:20" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:20" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:20" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:win:20" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:20" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:win:20" />
+    </root>
+  </artifact>
+</component>
